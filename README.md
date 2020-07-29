@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Matrix](https://www.hackingwithswift.com/uploads/matrix.jpg)
 
 <!--
 **math3vz/math3vz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
